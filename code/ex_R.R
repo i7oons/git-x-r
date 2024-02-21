@@ -10,6 +10,6 @@ mean(mtcars$mpg)
 
 sapply(mtcars, is.numeric)
 
-sapply(mtcars,mean)
+lapply(mtcars,mean)
 
 1+2
