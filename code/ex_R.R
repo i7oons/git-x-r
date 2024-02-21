@@ -13,3 +13,7 @@ sapply(mtcars, is.numeric)
 lapply(mtcars,mean)
 
 1+2
+
+3 + 4 + 5
+
+tail(mtcars)
